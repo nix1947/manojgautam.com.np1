@@ -1,19 +1,19 @@
 module.exports = {
   siteMetadata: {
-    title: `Ravan Scafi`,
-    author: `Ravan Scafi`,
-    description: `Ravan Scafi's personal website.`,
-    siteUrl: `https://ravan.me`,
+    title: `Manoj Gautam`,
+    author: `Manoj Gautam`,
+    description: `Manoj Gautam Blog.`,
+    siteUrl: `https://manojgautam.com.np`,
     repository: {
       name: "GitHub",
-      url: "https://github.com/ravanscafi/ravan.me",
+      url: "https://github.com/nix1947/",
     },
     social: {
-      twitter: `ravanscafi`,
-      github: `ravanscafi`,
-      exercism: `ravanscafi`,
-      linkedin: `ravanscafi`,
-      stackoverflow: `804741/ravan-scafi`,
+      twitter: `nix1947`,
+      github: `nix1947`,
+      exercism: `nix1947`,
+      linkedin: `manojgautamnepal`,
+      stackoverflow: `4131661/shining`,
     },
   },
   plugins: [
@@ -162,14 +162,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://ravan.me`,
+        siteUrl: `https://manojgautam.com.np`,
         stripQueryString: true,
       },
     },
     {
       resolve: `gatsby-plugin-disqus`,
       options: {
-        shortname: `ravan-me`,
+        shortname: `manojgautam`,
       },
     },
   ],
