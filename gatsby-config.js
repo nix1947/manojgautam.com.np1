@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Manoj Gautam`,
+    title: `मनोज गौतम `,
     author: `Manoj Gautam`,
     description: `Manoj Gautam Blog.`,
     siteUrl: `https://manojgautam.com.np`,
